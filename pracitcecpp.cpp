@@ -553,7 +553,7 @@ int main() {
 		}
 	}
 	catch (...) {
-		cout << "asdfasdfdsf";
+		cout << "error";
 	}
 	
 	
