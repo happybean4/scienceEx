@@ -435,7 +435,7 @@ int main() {
 		for (int i = 0; i < 100; i++) {
 			
 
-			for (int j = 0; j < 500; j++) {
+			for (int j = 0; j < 300; j++) {
 				initialize();
 
 				if (i == 0) {
